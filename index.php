@@ -8,4 +8,8 @@ $con_string = "host=ec2-54-221-226-148.compute-1.amazonaws.com
 
 pg_connect($con_string) or die('Conexão falhou!');
 
-echo "Conectado no Postgres com sucesso!";
+echo "Conectado no Postgres com sucesso!<br>";
+
+
+
+echo "Deply integrado com GitHub!<br>";
